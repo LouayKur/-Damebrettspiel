@@ -1,4 +1,18 @@
 # -Damebrettspiel
+
+weissscore: 0
+schwarzscore: 0
+  12345678
+A WW....SS
+B WW....SS
+C WW....SS
+D WW....SS
+E WW....SS
+F WW....SS
+G WW....SS
+Weiss ist dran!
+
+
 Ein gängiges Damebrettspiel besteht aus einem Brett mit 8x8 Feldern. Die Felder sind in beide
 Richtungen abwechselnd schwarz und weiß markiert. 
 Die Startposition ist, dass jeder Spieler auf
