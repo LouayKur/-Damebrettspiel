@@ -1,4 +1,4 @@
-# -Damebrettspiel
+# Damebrettspiel
 
 weissscore: 0
 
